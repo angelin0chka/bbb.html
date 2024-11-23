@@ -1,0 +1,43 @@
+ <html><title>коты</title>
+
+
+<header>
+    <a href="#cont">контакты</a>
+      <a href="#data">информация</a>
+      </header>
+      
+
+
+      <main>
+
+
+
+        <h1> породы котов </h1>
+        <h2>сфинкс </h2>
+        <img src="https://yac-wh-sb-prod-s3-media-07001.storage.yandexcloud.net/media/images/sphinx.max-2880x1820.format-jpeg_SPtfFVj.jpg">
+    <table id="data" style="border:1px solid blue">
+        <tr>
+            <td style="border:1px solid blue">вес</td>
+            <td style="border:1px solid blue" >рост</td>
+           
+            <td style="border:1px solid blue">продолжительность жизни </td>
+     </tr>
+        
+        <tr>
+            <td style="border:1px solid blue" >4-7kg</td>
+            <td style="border:1px solid blue" >20-26sm</td>
+            <td style="border:1px solid blue" > 14-16</td>
+        </tr>
+    </table>
+        
+
+        </main> 
+
+
+        <footer id="cont">Колхозная Улица,3, Мещовский Район, Калужская Область
+            </footer>
+        
+        <footer id="cont">89874234467</footer>
+
+
+        </html>
